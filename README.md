@@ -13,7 +13,7 @@ The dashboard provides interactive filters and visualizations to better understa
 
 ## 🚀 Live Demo
 
-👉 Try it here: https://tips-dashboard-bwtjwuqnavzkhs3nwa7mfy.streamlit.app/
+👉 Try it here: https://restaurant-tips-dashboard-cuqpizf3jmeqbdmmzrmd5f.streamlit.app/
 
 ---
 
